@@ -1,0 +1,7 @@
+{
+  "directory": "app/bower_components",
+  "proxy" : "http://vip-px.main.aviva.eu.corp:8086/",
+  "https-proxy" : "http://vip-px.main.aviva.eu.corp:8086/",
+  "strict-ssl" : false,
+  "interactive": false
+}
